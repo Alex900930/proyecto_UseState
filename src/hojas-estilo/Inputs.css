@@ -1,0 +1,23 @@
+input {
+    height: auto;
+    font-size: 60px;
+    width: 200px;
+    text-align: end;
+    border-radius: 5px;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: auto;
+    margin: auto;
+  }
+
+  .caja-principal {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 160px;
+    height: 100px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 700px;
+    box-sizing: border-box;
+  }
